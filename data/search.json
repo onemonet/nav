@@ -1,15 +1,15 @@
 [
   {
-    "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
-    "placeholder": "站内搜索",
-    "blocked": false
-  },
-  {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
     "placeholder": "百度一下",
+    "blocked": false
+  },
+  {
+    "name": "站内",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "placeholder": "站内搜索",
     "blocked": false
   },
   {
